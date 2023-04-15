@@ -1,5 +1,5 @@
 # speech to text
-
+# pip install SpeechRecognition
 import speech_recognition as sr
  
 r = sr.Recognizer()
